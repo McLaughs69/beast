@@ -1,0 +1,87 @@
+.glonky {
+    color: #941a1a;
+    background-color: rgb(13, 89, 156);
+}
+
+#style1{
+    color:bisque;
+    
+
+}
+
+body{
+    background-color: #000000;
+}
+
+#whatnow{
+    margin-top: 10px;
+    border: 50px solid #17b183;
+    width: 500px;
+    height: 300px;
+
+}
+
+#exampleid{
+margin-top: 10px;
+border: 2px solid aqua;
+width: 500px;
+height: 300px;
+
+}
+
+.exampleclass{
+background-color: #fff;
+width: 100%;
+height: 50%;
+}
+
+.white{
+background-color: #941a1a;
+width: 100%;
+height: 50%;
+}
+
+#outer{
+    display: flex;
+    margin-top: 2px;
+    width: 500px;
+    height: 300px;
+    border: 2px solid #17b183
+}
+
+.color{
+    width: 100%;
+    height: 100%;
+}
+
+#green{
+background-color: green;
+
+}
+
+#white{
+    background-color: white;
+}
+
+#orange {
+    background-color: orange ;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+margin-top: 20px;
+border: 2px solid rgb(27, 27, 199);
+width: 500px;
+height: 300px;
+
+}
+
+.boxinner {
+
+    background-color: #941a1a;
+    width: 100px;
+    height: 100px;
+}
